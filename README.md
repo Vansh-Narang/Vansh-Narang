@@ -9,4 +9,4 @@ About me:
 - ⚡ Fun fact: Learning something new everyday! 
 
 ![](https://komarev.com/ghpvc/?username=Vansh-Narang&label=PROFILE+VIEWS)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Narang&layout=compact)
