@@ -10,4 +10,5 @@ About me:
 
 ![](https://komarev.com/ghpvc/?username=Vansh-Narang&label=PROFILE+VIEWS)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Narang)](https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Narang&theme=tokyonight)
 
