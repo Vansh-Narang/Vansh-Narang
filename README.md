@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-narang&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-narang" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Different Stuffs**
 
 - 📫 How to reach me **vanshnarang49906@gmail.com**
 
