@@ -20,3 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-narang&show_icons=true&locale=en&layout=compact" alt="vansh-narang" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh-narang&show_icons=true&locale=en" alt="vansh-narang" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vansh-Narang)](https://git.io/streak-stats)
