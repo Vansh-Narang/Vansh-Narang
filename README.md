@@ -20,7 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-narang&show_icons=true&locale=en&layout=compact&theme=dark" alt="vansh-narang" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh-narang&show_icons=true&locale=en&theme=dark" alt="vansh-narang" /></p>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vansh-narang&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=vansh-narang&theme=default" />
-</picture>
+<p><img align="" src="https://streak-stats.demolab.com/?user==vansh-narang&theme=dark" alt="=vansh-narang" /></p>
+
