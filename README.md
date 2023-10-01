@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vanshnarang49906@gmail.com**
 
-- ⚡ Fun fact **Learning something new everyday!**
+- ⚡ Fun fact **Imagining and Building!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
